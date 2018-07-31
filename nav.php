@@ -11,7 +11,7 @@
                             <a class="nav-link" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#product_list">Products</a>
+                            <a class="nav-link" href="index.php#product_list">Products</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="cart.php" target="_blank">Cart</a>
